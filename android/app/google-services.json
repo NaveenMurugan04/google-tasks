@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "190849811936",
+    "project_id": "tasks-7900c",
+    "storage_bucket": "tasks-7900c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190849811936:android:5daf4eff37d27b63ec1785",
+        "android_client_info": {
+          "package_name": "com.naveen.google_tasks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190849811936-ubjte96fgiikkriqhpb1jj1kgnbt1knf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.naveen.google_tasks",
+            "certificate_hash": "b47e6d2320b84746460ac8042fca034362cdc725"
+          }
+        },
+        {
+          "client_id": "190849811936-tfftp1gnhenkjpdbr7sri4ljvm37k8ch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQMaAzD_F900P4pxg2pkS4wmCvtK2KMAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190849811936-tfftp1gnhenkjpdbr7sri4ljvm37k8ch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
