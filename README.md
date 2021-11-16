@@ -1,4 +1,4 @@
-# sample_app
+# google-tasks
 
 A new Flutter project.
 
